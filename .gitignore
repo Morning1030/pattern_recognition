@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+
+# VSCode settings
+.vscode/
+
+side_project/
+mnist_train.csv
+手寫程式作業規定.pdf
